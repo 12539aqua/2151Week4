@@ -29,7 +29,7 @@ Use `###` for smaller headings.
 You can also combine **bold and _italic_**. 
 --- 
 ## Links and Images 
-[This is a link](https://example.com) 
+[This is a link]([https://example.com](https://code.earthengine.google.com/7300cc5b5deb4a4c65d6186960d67207)) 
 ![This is an image](https://via.placeholder.com/150) 
 --- 
 ## Code Blocks 
